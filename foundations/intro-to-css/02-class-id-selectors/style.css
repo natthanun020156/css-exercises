@@ -1,0 +1,17 @@
+.alert-text,.blert-text{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#white{
+    color:blue;
+    font-size: 36px;
+}
+.blert-text{
+font-size: 24px;
+}
+#green{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+
+}
